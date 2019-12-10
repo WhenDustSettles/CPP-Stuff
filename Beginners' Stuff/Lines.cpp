@@ -50,7 +50,7 @@ int main()
 double Line::intersect(Line & l)
 {
     try{
-            s
+            
             if ((l.a/a) == (l.b/b))
                 throw "Line given is parallel to this line.";
        }
